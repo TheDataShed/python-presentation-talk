@@ -38,18 +38,16 @@ h1 {
 
 h2 {
     font-size: 3em;
-    color: var(--primary-purple)
+    color: var(--primary-green)
 }
 
 h3 {
     font-size: 2em;
-    color: var(--primary-green)
+    color: var(--secondary-blue)
 }
 
 section {
     
-    width: 1920px;
-    height: 1080px;
     background-color: rgb(255, 255, 255);
     
     padding: 40px;

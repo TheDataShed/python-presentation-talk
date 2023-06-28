@@ -12,15 +12,31 @@ footer: '![hippo](assets/hippo.png)'
 
 ---
 
-![bg right height:400px width:auto](assets/python-notext.svg)
+![bg right height:auto width:100%](assets/python-old.svg)
+
+# Python in the Past
+
+Lightweight history of Python.
+
+`@<Roger G. Coram>`
+
+---
+
+TODO
+
+---
+
+![bg right fit](assets/python-now.svg)
 
 # Python in the Present
 
 Present day Python from a total newbie's perspective.
 
+`@<Louis Feather>`
+
 ---
 
-![bg right height:400px width:auto](assets/csharp-and-sql-server.png)
+![bg right fit](assets/csharp-and-sql-server.png)
 
 # My ~~Python~~ History
 
@@ -53,7 +69,7 @@ Using Python for the first time meant **A LOT** of learning. Here's some of the 
 
 ---
 
-# Syntax
+## Syntax
 
 - No curly braces!
 - No semi-colons!
@@ -61,7 +77,7 @@ Using Python for the first time meant **A LOT** of learning. Here's some of the 
 
 ---
 
-# Importy Stuff
+## Importy Stuff
 
 The process of importing my first module:
 
@@ -72,7 +88,7 @@ The process of importing my first module:
 
 ---
 
-# Unit Test Mocking
+## Unit Test Mocking
 
 This took me bloody ages but was an absolute saviour.
 
@@ -84,7 +100,7 @@ Eventually one day, it clicks.
 
 ---
 
-# Virtual Environments
+## Virtual Environments
 
 Make sure you do all of your tinkering in a `venv`.
 
@@ -92,7 +108,7 @@ I learnt this the hard way.
 
 ---
 
-# List Comprehension
+## List Comprehension
 
 This feature is ace!
 
@@ -102,7 +118,7 @@ Great for grabbing things from lists (and stuff) without having loops all over.
 
 ---
 
-# `*args` and `**kwargs`
+## `*args` and `**kwargs`
 
 Pretty much swallows up arguments that aren't declared as positional arguments.
 
@@ -157,4 +173,23 @@ Much more lightweight than `C#`.
 
 ---
 
-![bg fit](assets/fin.jfif)
+
+![bg right height:50%](assets/python-notext.svg)
+
+# Python in the Future
+
+TODO
+
+`@<Will Johnson>`
+
+---
+
+<style scoped>
+    header, footer {
+        display: none;
+    }
+</style>
+
+<!-- _paginate: skip -->
+
+![bg](assets/fin.jfif)
