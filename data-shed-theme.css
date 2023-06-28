@@ -1,4 +1,4 @@
-/* @theme data-shed */
+/* @theme the-data-shed */
 
 @import 'default';
 
@@ -67,4 +67,8 @@ header > img {
 }
 footer > img {
     height: 110px;
+}
+
+section.center {
+    text-align: center;
 }

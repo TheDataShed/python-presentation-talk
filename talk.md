@@ -1,10 +1,12 @@
 ---
 marp: true
 paginate: true
-theme: data-shed
+theme: the-data-shed
 header: '![The Data Shed](assets/thedatashed.svg)'
 footer: '![hippo](assets/hippo.png)'
 ---
+
+<!-- _paginate: false -->
 
 # Python
 
@@ -18,11 +20,163 @@ footer: '![hippo](assets/hippo.png)'
 
 Lightweight history of Python.
 
-`@<Roger G. Coram>`
+`@<Roger G. Coram>` (TODO: confirm)
 
 ---
 
-TODO
+![bg right fit](assets/python-notext.svg)
+
+# What is Python?
+
+Python is a high-level, general-purpose programming language.
+
+---
+
+<style scoped>
+    header, footer {
+        display: none;
+    }
+</style>
+
+<!-- _paginate: skip -->
+
+![bg](assets/fin.jfif)
+
+---
+
+<style scoped>
+    header, footer {
+        display: none;
+    }
+</style>
+
+<!-- _paginate: skip -->
+
+![bg](assets/i-lied.gif)
+
+---
+
+<!-- TODO: work out where this bit fits, if at all... -->
+
+![bg right fit](assets/zen-of-python.png)
+
+# Philosophy
+
+the language's core ~~manifesto~~ philosophy is summarized in the document _"The Zen of Python"_ (PEP 20), which includes aphorisms such as:
+
+- Beautiful is better than ugly.
+- Explicit is better than implicit.
+- Simple is better than complex.
+- Complex is better than complicated.
+- Readability counts.
+
+**TS; RE** ```python -c import this```
+
+---
+
+<!-- _class: center -->
+
+# A \[Very\] Brief History
+
+---
+
+![bg right fill](assets/guido-1995.jpg)
+
+## ~~What~~ Who is Python?
+
+Python was conceived by a Dutch chap called **_Guido van Rossum_** (him 👉) way back in the \[late\] 1980s as a successor to the ABC programming language.
+
+Guido began the implementation solo in 1989.
+
+---
+
+![bg right fill](assets/guido-1999.gif)
+
+
+> Python really is sort of the next version of ABC with all the things that were great about ABC retained, and all the things I thought were not so successful in ABC removed...
+
+_~ Guido (probably)_
+
+P.S. the language was named after **Monty Python's Flying Circus**!
+
+---
+
+![bg right fill](assets/guido-2002.jpg)
+
+## Python 0.9
+
+Python's first public release was `1991-02-20` (which pretty ancient for a programming language.).
+
+> This is Python, an extensible interpreted programming language that combines remarkable power with very clear syntax.
+> 
+> This is version 0.9 (the first beta release), patchlevel 1.
+
+_Source: <https://www.tuhs.org/Usenet/alt.sources/1991-February/001749.html>_
+
+---
+
+![bg right fill](assets/shrug.jpg)
+
+## Python 1.0
+
+### Released 1994-01-26
+
+I don't know...
+
+...I wasn't writing code quite yet!
+
+<sub>_I was 7 years old._</sub>
+
+<!-- TODO: if Roger is delivering this, check the age bit -->
+
+
+---
+
+![bg right fill](assets/guido-2006.jpg)
+
+## Python 2.0
+
+### Released 2000-10-16
+
+Sunsetted `2020-01-01`
+
+> **Never 2.** Shedders don't let Shedders use Python 2.
+
+_~ TDS Engineering Handbook_
+
+<!-- Introduced things such as:
+
+- Improved OS support for Mac and Windows 💻
+- List Comprehension 🎡
+- Named and keyword argument unpacking e.g. `f(*args, **kw)`
+- Import renaming/aliasing e.g. `import name as othername`
+- Introduction of `IndentationError` 🙌 -->
+
+---
+
+![bg right fill](assets/guido-2014.jpg)
+
+## Python 3.0
+
+### Released 2008-12-03
+
+This is the current _major version_ of the language.
+
+> I think that, honestly, the mistake that all us of in the Python core and actually the whole Python community, the mistake we made was underestimating Python's popularity.
+
+_~ Guido (again), innit_
+
+<!-- - there's a reason dynamic typing proves so popular.
+- there's a reason both JavaScript and Python have introduced typing.
+- there's probably a reason they're leaving it optional too... -->
+
+---
+
+## What Version to Use
+
+If in doubt, use **3.9** (latest supported across AWS, Azure and GCP).
+
+<sub>Latest stable release (correct at the time of writing) is 3.11.4.</sub>
 
 ---
 
