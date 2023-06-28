@@ -12,6 +12,8 @@ footer: '![hippo](assets/hippo.png)'
 
 ## Past, Present & Future
 
+`@<Roger G Coram>, @<Louis Feather> & @<Will Johnson>`
+
 ---
 
 ![bg right height:auto width:100%](assets/python-old.svg)
@@ -92,10 +94,9 @@ Guido began the implementation solo in 1989.
 
 ![bg right fill](assets/guido-1999.gif)
 
-
 > Python really is sort of the next version of ABC with all the things that were great about ABC retained, and all the things I thought were not so successful in ABC removed...
 
-_~ Guido (probably)_
+~ _Guido (probably)_
 
 P.S. the language was named after **Monty Python's Flying Circus**!
 
@@ -108,7 +109,7 @@ P.S. the language was named after **Monty Python's Flying Circus**!
 Python's first public release was `1991-02-20` (which pretty ancient for a programming language.).
 
 > This is Python, an extensible interpreted programming language that combines remarkable power with very clear syntax.
-> 
+>
 > This is version 0.9 (the first beta release), patchlevel 1.
 
 _Source: <https://www.tuhs.org/Usenet/alt.sources/1991-February/001749.html>_
@@ -129,7 +130,6 @@ I don't know...
 
 <!-- TODO: if Roger is delivering this, check the age bit -->
 
-
 ---
 
 ![bg right fill](assets/guido-2006.jpg)
@@ -142,7 +142,7 @@ Sunsetted `2020-01-01`
 
 > **Never 2.** Shedders don't let Shedders use Python 2.
 
-_~ TDS Engineering Handbook_
+~ _TDS Engineering Handbook_
 
 <!-- Introduced things such as:
 
@@ -164,7 +164,7 @@ This is the current _major version_ of the language.
 
 > I think that, honestly, the mistake that all us of in the Python core and actually the whole Python community, the mistake we made was underestimating Python's popularity.
 
-_~ Guido (again), innit_
+~ _Guido (again), innit_
 
 <!-- - there's a reason dynamic typing proves so popular.
 - there's a reason both JavaScript and Python have introduced typing.
@@ -286,7 +286,7 @@ What are my thoughts on it all now?
 
 ---
 
-# Installation
+## Installation
 
 Mentioned before but this bit sucks.
 
@@ -294,7 +294,7 @@ Would maybe put me off using Python if was a complete beginner.
 
 ---
 
-# A Package for Everything
+## A Package for Everything
 
 No matter what you need, there's a package for it... that's great!
 
@@ -306,7 +306,7 @@ Don't reinvent the wheel!
 
 ---
 
-# Rapid Development
+## Rapid Development
 
 Once it's installed, Python is super quick to start developing with.
 
@@ -326,7 +326,6 @@ Much more lightweight than `C#`.
 - Installing Python is so bad
 
 ---
-
 
 ![bg right height:50%](assets/python-notext.svg)
 
