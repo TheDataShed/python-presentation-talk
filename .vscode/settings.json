@@ -1,6 +1,6 @@
 {
     "markdown.marp.themes": [
         "./data-shed-theme.css"
-    ]
+    ],
     "markdown.marp.enableHtml": true
 }

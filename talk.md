@@ -2,68 +2,41 @@
 marp: true
 paginate: true
 theme: data-shed
-header: <div class="row"><div class="col"><img src="https://thedatashed.co.uk/wp-content/themes/datashed/images/Logo_RGB_web.svg"></div></div>
-footer: <div class="row"><div class="col-12"><img class="no-responsive" src="https://avatars.githubusercontent.com/u/43880921?s=200&v=4" height="100"></div><div class="col-12">Data Classification - Internal</div></div>
+header: '![The Data Shed](assets/thedatashed.svg)'
+footer: '![hippo](assets/hippo.png)'
 ---
-<span class="row">
-<span class="col-5">
+
+# Python
+
+## Past, Present & Future
+
+---
 
 # Python in the Present
 
-<p class="lead">Present day Python from a total newbie's perspective.</p>
+Present day Python from a total newbie's perspective.
 
-</span>
-<span class="col-5 text-center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" class="no-responsive" height="400">
-</span>
-</span>
+![bg right height:400px width:auto](assets/python-notext.svg)
 
 ---
 
-# My Python History
+# My ~~Python~~ History
 
-<span class="row">
+- Just 12 months ago I knew **NO** Python.
+- I had **NEVER** used it before.
+- My background was **Microsoft** using C# and SQL Server.
 
-<span class="col-12">
-
-Just 12 months ago I knew **NO** Python.
-
-I had **NEVER** used it before.
-
-My background was **Microsoft** using C# and SQL Server.
-
-</span>
-
-</span>
-<span class="row">
-
-<span class="col-6 text-center">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" class="no-responsive" height="400">
-</span>
-<span class="col-6 text-center">
-
-<img src="https://www.commvault.com/wp-content/uploads/2019/08/sql-server_logo.jpg?quality=80&w=930" class="no-responsive" height="400">
-
-</span>
-</span>
+![bg right height:400px width:auto](assets/csharp-and-sql-server.png)
 
 ---
 
 # Then...
 
-<span class="row">
-<span class="col-5">
-<img src="https://i.imgflip.com/7qqtdw.jpg">
-</span>
-<span class="col-5">
+![bg right contain](assets/suddenly-python.jpg)
 
 I landed on a project which was pretty much all **Python**...
 
 The fear kicked in. I was being made to leave my cosy, capitalist Microsoft bubble.
-
-</span>
-</span>
 
 ---
 
@@ -83,7 +56,7 @@ The fear kicked in. I was being made to leave my cosy, capitalist Microsoft bubb
 - Tried to build a factory pattern 😂 (and kind of succeeded?)
 - List comprehension
 - This UnitTest mocking is insane
-- Wtf is a "dunder method"
+- WTF is a "dunder method"
 
 ---
 
