@@ -371,8 +371,7 @@ Wide variety of uses:
 - IoT / Raspberry Pi
 - Scientific computing
 
-<!-- TODO George pls fix alignment -->
-![bg right height:50%](https://dz2cdn1.dzone.com/storage/temp/13845723-python-popularity.png)
+![bg right:55% height:50%](https://dz2cdn1.dzone.com/storage/temp/13845723-python-popularity.png)
 
 ---
 
@@ -399,7 +398,6 @@ Underlying changes to C under the hood might force it in the far future though.
 
 ![bg right:35% height:150px width:auto](https://www.ausairpower.net/XIMG/P-4-Profile.png)
 
-<!-- TODO George pls make this little at the bottom -->
 <sub>_source: [Q&A with Guido van Rossum, Inventor of Python
 ](https://www.youtube.com/live/aYbNh3NS7jA?feature=share&t=2872)_</sub>
 
