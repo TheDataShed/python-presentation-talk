@@ -66,3 +66,13 @@ header > img {
 footer > img {
     height: 110px;
 }
+
+small {
+    font-size: 0.8em;
+    color: var(--primary-orange);
+}
+
+small > a {
+    color: var(--primary-orange);
+    text-decoration: underline;
+}

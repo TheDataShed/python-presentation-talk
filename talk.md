@@ -108,7 +108,7 @@ Python's first public release was `1991-02-20` (which pretty ancient for a progr
 >
 > This is version 0.9 (the first beta release), patchlevel 1.
 
-<sub>_Source: <https://www.tuhs.org/Usenet/alt.sources/1991-February/001749.html>_</sub>
+<small>Source: <https://www.tuhs.org/Usenet/alt.sources/1991-February/001749.html></small>
 
 ---
 
@@ -122,7 +122,7 @@ I don't know...
 
 ...I wasn't writing code quite yet!
 
-<sub>_I was 7 years old._</sub>
+<small>I was 7 years old.</small>
 
 ---
 
@@ -132,19 +132,25 @@ I don't know...
 
 ### Released 2000-10-16
 
-Sunsetted `2020-01-01`
-
-> **Never 2.** Shedders don't let Shedders use Python 2.
-
-~ _TDS Engineering Handbook_
-
-<!-- Introduced things such as:
+Introduced things such as:
 
 - Improved OS support for Mac and Windows 💻
 - List Comprehension 🎡
 - Named and keyword argument unpacking e.g. `f(*args, **kw)`
 - Import renaming/aliasing e.g. `import name as othername`
-- Introduction of `IndentationError` 🙌 -->
+- Introduction of `IndentationError` 🙌
+
+---
+
+![bg right fill](assets/guido-2006.jpg)
+
+## Python 2.0 ☠️
+
+### Sunset `2020-01-01`
+
+> **Never 2.** Shedders don't let Shedders use Python 2.
+
+~ _TDS Engineering Handbook_
 
 ---
 
@@ -170,7 +176,7 @@ This is the current _major version_ of the language.
 
 If in doubt, use **3.9** (latest supported across AWS, Azure and GCP).
 
-<sub>Latest stable release (correct at the time of writing) is 3.11.4.</sub>
+<small>Latest stable release (correct at the time of writing) is 3.11.4.</small>
 
 ---
 
@@ -370,7 +376,8 @@ Python is still growing in popularity and has a wide variety of uses:
 - IoT / Raspberry Pi
 - Scientific computing
 
-![bg right fit](https://dz2cdn1.dzone.com/storage/temp/13845723-python-popularity.png)
+<!-- TODO George pls fix alignment -->
+![bg right height:50%](assets/python-popularity.png)
 
 ---
 
@@ -395,10 +402,10 @@ Guido doesn't think it's likely.
 
 Underlying changes to C under the hood might force it in the far future though.
 
-![bg right:35% height:150px width:auto](https://www.ausairpower.net/XIMG/P-4-Profile.png)
+![bg right:35% height:150px width:auto](assets/python4.png)
 
 _source: [Q&A with Guido van Rossum, Inventor of Python
-](https://www.youtube.com/live/aYbNh3NS7jA?feature=share&t=2872)_
+](https://www.youtube.com/live/aYbNh3NS7jA?t=2872)_
 
 ---
 
@@ -408,7 +415,7 @@ _source: [Q&A with Guido van Rossum, Inventor of Python
 - PyData
 - Get learning!
 
-![bg right:50% height:450px width:auto](https://pbs.twimg.com/profile_images/2928517227/19a21be5aacc105fda1a34cfc7696888_400x400.png)
+![bg right:50% height:450px width:auto](assets/pydata.png)
 
 ---
 
