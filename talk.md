@@ -12,7 +12,7 @@ footer: '![hippo](assets/hippo.png)'
 
 ## Past, Present & Future
 
-`@<George Verney>, @<Louis Feather> & @<Will Johnson>`
+`@<George V>, @<Louis Feather> & @<Will Johnson>`
 
 ---
 
@@ -22,7 +22,7 @@ footer: '![hippo](assets/hippo.png)'
 
 Lightweight history of Python.
 
-`@<George Verney>`
+`@<George V>`
 
 ---
 
@@ -73,8 +73,6 @@ the language's core ~~manifesto~~ philosophy is summarized in the document _"The
 **TS; RE** ```python -c import this```
 
 ---
-
-<!-- _class: center -->
 
 # A \[Very\] Brief History
 
@@ -198,7 +196,7 @@ Present day Python from a total newbie's perspective.
 
 ![bg right:45% height:400px width:auto](assets/suddenly-python.jpg)
 
-# Then...
+# ...and then
 
 I'm thrust onto a project where we're using Python (and only the standard library).
 
@@ -222,7 +220,9 @@ Literally the worst.
 This part of the process still **SUCKS** in my opinion. It shouldn't take me half a day to fix all this crap.
 
 ---
+
 ![bg right:45% height:400px width:auto](assets/learnding.webp)
+
 # Learning
 
 Using Python for the first time meant **A LOT** of learning. Here's some of the stuff I learned...
@@ -273,6 +273,7 @@ I learnt this the hard way.
 ---
 
 ![bg right:40% height:700px width:auto](assets/list-comp.jpg)
+
 ## List Comprehension
 
 This feature is ace!
@@ -358,9 +359,7 @@ A look at what's in store for Python
 
 # Usage
 
-Python is still growing in popularity.
-
-Wide variety of uses:
+Python is still growing in popularity and has a wide variety of uses:
 
 - Data processing
 - AI and ML
@@ -371,8 +370,7 @@ Wide variety of uses:
 - IoT / Raspberry Pi
 - Scientific computing
 
-<!-- TODO George pls fix alignment -->
-![bg right height:50%](https://dz2cdn1.dzone.com/storage/temp/13845723-python-popularity.png)
+![bg right fit](https://dz2cdn1.dzone.com/storage/temp/13845723-python-popularity.png)
 
 ---
 
@@ -399,9 +397,8 @@ Underlying changes to C under the hood might force it in the far future though.
 
 ![bg right:35% height:150px width:auto](https://www.ausairpower.net/XIMG/P-4-Profile.png)
 
-<!-- TODO George pls make this little at the bottom -->
-<sub>_source: [Q&A with Guido van Rossum, Inventor of Python
-](https://www.youtube.com/live/aYbNh3NS7jA?feature=share&t=2872)_</sub>
+_source: [Q&A with Guido van Rossum, Inventor of Python
+](https://www.youtube.com/live/aYbNh3NS7jA?feature=share&t=2872)_
 
 ---
 
@@ -412,7 +409,6 @@ Underlying changes to C under the hood might force it in the far future though.
 - Get learning!
 
 ![bg right:50% height:450px width:auto](https://pbs.twimg.com/profile_images/2928517227/19a21be5aacc105fda1a34cfc7696888_400x400.png)
-
 
 ---
 
