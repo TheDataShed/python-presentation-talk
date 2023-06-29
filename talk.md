@@ -12,7 +12,7 @@ footer: '![hippo](assets/hippo.png)'
 
 ## Past, Present & Future
 
-`@<George V>, @<Louis Feather> & @<Will Johnson>`
+`@<George V>, @<Louis F> & @<Will J>`
 
 ---
 
@@ -186,7 +186,7 @@ If in doubt, use **3.9** (latest supported across AWS, Azure and GCP).
 
 Present day Python from a total newbie's perspective.
 
-`@<Louis Feather>`
+`@<Louis F>`
 
 ---
 
@@ -357,7 +357,7 @@ Much more lightweight than `C#`.
 
 A look at what's in store for Python
 
-`@<Will Johnson>`
+`@<Will J>`
 
 ![bg right height:50%](assets/python-notext.svg)
 
