@@ -395,7 +395,7 @@ Guido doesn't think it's likely.
 
 2 to 3 was such a pain that it will be avoided at all costs.
 
-Underlying changing to C under the hood might force it in the far future though.
+Underlying changes to C under the hood might force it in the far future though.
 
 ![bg right:35% height:150px width:auto](https://www.ausairpower.net/XIMG/P-4-Profile.png)
 
