@@ -299,7 +299,7 @@ Pretty much swallows up arguments that aren't declared as positional arguments.
 
 # Where am I now?
 
-What are my thoughts on it all now?
+What are my thoughts on _**the old snake**_ now?
 
 ---
 
