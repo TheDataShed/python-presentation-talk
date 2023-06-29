@@ -266,6 +266,8 @@ Eventually one day, it clicks.
 
 ---
 
+![bg right:48% height:400px width:auto](assets/fine.jpeg)
+
 ## Virtual Environments
 
 Make sure you do all of your tinkering in a `venv`.
@@ -274,6 +276,7 @@ I learnt this the hard way.
 
 ---
 
+![bg right:40% height:700px width:auto](assets/list-comp.jpg)
 ## List Comprehension
 
 This feature is ace!
@@ -283,6 +286,8 @@ It's like _Linq_ but miles easier to remember how to do.
 Great for grabbing things from lists (and stuff) without having loops all over.
 
 ---
+
+![bg right:33% height:400px width:auto](assets/pirate-duck.jpg)
 
 ## `*args` and `**kwargs`
 
@@ -298,6 +303,8 @@ What are my thoughts on it all now?
 
 ---
 
+![bg right:48% height:400px width:auto](assets/worst-install.jpg)
+
 ## Installation
 
 Mentioned before but this bit sucks.
@@ -305,6 +312,8 @@ Mentioned before but this bit sucks.
 Would maybe put me off using Python if was a complete beginner.
 
 ---
+
+![bg right:48% height:400px width:auto](assets/post-office.png)
 
 ## A Package for Everything
 
@@ -317,6 +326,8 @@ Having `pip` and access to whole world of stuff is great.
 Don't reinvent the wheel!
 
 ---
+
+![bg right:40% height:500px width:auto](assets/sanic.webp)
 
 ## Rapid Development
 
