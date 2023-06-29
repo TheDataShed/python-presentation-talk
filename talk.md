@@ -200,6 +200,16 @@ Present day Python from a total newbie's perspective.
 
 ---
 
+# Then...
+
+![bg right:45% height:400px width:auto](assets/suddenly-python.jpg)
+
+I'm thrust onto a project where we're using Python (and only the standard library).
+
+I was ripped from my cosy, capitalist Microsoft bubble.
+
+---
+
 ![bg right:33% height:400px width:auto](assets/why.png)
 
 # Installation
