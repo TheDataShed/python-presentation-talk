@@ -200,9 +200,9 @@ Present day Python from a total newbie's perspective.
 
 ---
 
-# Then...
-
 ![bg right:45% height:400px width:auto](assets/suddenly-python.jpg)
+
+# Then...
 
 I'm thrust onto a project where we're using Python (and only the standard library).
 
@@ -226,12 +226,14 @@ Literally the worst.
 This part of the process still **SUCKS** in my opinion. It shouldn't take me half a day to fix all this crap.
 
 ---
-
+![bg right:45% height:400px width:auto](assets/learnding.webp)
 # Learning
 
 Using Python for the first time meant **A LOT** of learning. Here's some of the stuff I learned...
 
 ---
+
+![bg right:40% height:400px width:auto](assets/fresh-hell.jpg)
 
 ## Syntax
 
