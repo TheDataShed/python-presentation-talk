@@ -58,9 +58,7 @@ Python is a high-level, general-purpose programming language.
 
 ---
 
-<!-- TODO: work out where this bit fits, if at all... -->
-
-![bg right fit](assets/zen-of-python.png)
+![bg right:40% height:400px](assets/zen-of-python.png)
 
 # Philosophy
 
@@ -112,7 +110,7 @@ Python's first public release was `1991-02-20` (which pretty ancient for a progr
 >
 > This is version 0.9 (the first beta release), patchlevel 1.
 
-_Source: <https://www.tuhs.org/Usenet/alt.sources/1991-February/001749.html>_
+<sub>_Source: <https://www.tuhs.org/Usenet/alt.sources/1991-February/001749.html>_</sub>
 
 ---
 
@@ -127,8 +125,6 @@ I don't know...
 ...I wasn't writing code quite yet!
 
 <sub>_I was 7 years old._</sub>
-
-<!-- TODO: if Roger is delivering this, check the age bit -->
 
 ---
 
@@ -350,13 +346,73 @@ Much more lightweight than `C#`.
 
 ---
 
-![bg right height:50%](assets/python-notext.svg)
+# The Future of Python
 
-# Python in the Future
-
-TODO
+A look at what's in store for Python
 
 `@<Will Johnson>`
+
+![bg right height:50%](assets/python-notext.svg)
+
+---
+
+# Usage
+
+Python is still growing in popularity.
+
+Wide variety of uses:
+
+- Data processing
+- AI and ML
+- Education
+- Web and APIs
+- Web scraping
+- Game development
+- IoT / Raspberry Pi
+- Scientific computing
+
+<!-- TODO George pls fix alignment -->
+![bg right height:50%](https://dz2cdn1.dzone.com/storage/temp/13845723-python-popularity.png)
+
+---
+
+# Education
+
+Why is it the go to language in the classroom?
+
+- Simple to read
+- Versatile
+- A package for everything!
+- Used after education
+
+![bg right:44% height:400px width:auto](assets/robot-baby-laptop.png)
+
+---
+
+# Python 4?
+
+Guido doesn't think it's likely.
+
+2 to 3 was such a pain that it will be avoided at all costs.
+
+Underlying changing to C under the hood might force it in the far future though.
+
+![bg right:35% height:150px width:auto](https://www.ausairpower.net/XIMG/P-4-Profile.png)
+
+<!-- TODO George pls make this little at the bottom -->
+<sub>_source: [Q&A with Guido van Rossum, Inventor of Python
+](https://www.youtube.com/live/aYbNh3NS7jA?feature=share&t=2872)_</sub>
+
+---
+
+# Looking Forward
+
+- Here to stay
+- PyData
+- Get learning!
+
+![bg right:50% height:450px width:auto](https://pbs.twimg.com/profile_images/2928517227/19a21be5aacc105fda1a34cfc7696888_400x400.png)
+
 
 ---
 
