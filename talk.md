@@ -350,13 +350,70 @@ Much more lightweight than `C#`.
 
 ---
 
-![bg right height:50%](assets/python-notext.svg)
+# The Future of Python
 
-# Python in the Future
-
-TODO
+A look at what's in store for Python
 
 `@<Will Johnson>`
+
+![bg right height:50%](assets/python-notext.svg)
+
+---
+
+# Usage
+
+Python is still growing in popularity.
+
+Wide variety of uses:
+
+- Data processing
+- AI and ML
+- Education
+- Web and APIs
+- Web scraping
+- Game development
+- IoT / Raspberry Pi
+- Scientific computing
+
+<!-- TODO George pls fix alignment -->
+![bg right height:50%](https://dz2cdn1.dzone.com/storage/temp/13845723-python-popularity.png)
+
+---
+
+# Education
+
+Why is it the go to language in the classroom?
+
+- Simple to read
+- Versatile
+- Loads of libraries
+- Used after education
+
+![bg right:44% height:400px width:auto](assets/robot-baby-laptop.png)
+
+---
+
+# Python 4?
+
+Guido doesn't think it's likely.
+
+2 to 3 was such a pain that it will be avoided at all costs.
+
+Underlying changing to C under the hood might force it in the far future though.
+
+![bg right:35% height:150px width:auto](https://www.ausairpower.net/XIMG/P-4-Profile.png)
+
+<!-- TODO George pls make this little at the bottom -->
+<i>source: [Q&A with Guido van Rossum, Inventor of Python
+](https://www.youtube.com/live/aYbNh3NS7jA?feature=share&t=2872)</i>
+
+---
+
+# Looking Forward
+
+- Here to stay
+- Get learning!
+- PyData
 
 ---
 
