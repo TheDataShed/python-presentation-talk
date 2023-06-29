@@ -1,0 +1,9 @@
+line-length: false
+
+no-inline-html:
+  allowed_elements:
+    - "sub"
+    - "style"
+
+no-duplicate-heading:
+  allow_different_nesting: true

@@ -1,148 +1,74 @@
-/* @theme data-shed */
+/* @theme the-data-shed */
 
 @import 'default';
-@import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@400;700&display=swap');
-@import url('https://cdn.jsdelivr.net/npm/bootstrap-v4-grid-only@1.0.0/dist/bootstrap-grid.min.css');
 
-/* Variables */
 :root {
-    --data-shed-orange: #fcb900;
-    --data-shed-purple: #9b51e0;
-    --data-shed-green: #00d084;
+    /* Variables */
+    /* (from the brand guidelines) */
+    --primary-orange: #ff8c27;
+    --primary-purple: #5c59a7;
+    --primary-green: #5cdcc1;
+    --secondary-blue: #28b4e5;
+    --secondary-crimson: #d73455;
+    --secondary-yellow: #ffd81c;
+    --grey-1: #f2f2f2;
+    --grey-2: #a0a0a0;
+    --grey-3: #545454;
+    --grey-4: #444444;
+
+    
+  width: 1280px;
+  height: 960px;
 }
 
-.bg-data-shed-orange {
-    background-color: var(--data-shed-orange) !important;
-}
-
-.bg-data-shed-purple {
-    background-color: var(--data-shed-purple) !important;
-}
-
-.bg-data-shed-green {
-    background-color: var(--data-shed-green) !important;
-}
-
-.text-center {
-    text-align: center !important;
-}
-
-.white-text,
-.white-text p,
-.white-text h1,
-.white-text h2,
-.white-text h3,
-.white-text h4,
-.white-text h5,
-.white-text h6 {
-    color: #fff !important;
-}
-
-.black-text,
-.black-text p,
-.black-text h1,
-.black-text h2,
-.black-text h3,
-.black-text h4,
-.black-text h5,
-.black-text h6 {
-    color: #000 !important;
-}
-
-.data-shed-orange-text,
-.data-shed-orange-text p,
-.data-shed-orange-text h1,
-.data-shed-orange-text h2,
-.data-shed-orange-text h3,
-.data-shed-orange-text h4,
-.data-shed-orange-text h5,
-.data-shed-orange-text h6 {
-    color: var(--data-shed-orange) !important;
-}
-
-.data-shed-purple-text,
-.data-shed-purple-text p,
-.data-shed-purple-text h1,
-.data-shed-purple-text h2,
-.data-shed-purple-text h3,
-.data-shed-purple-text h4,
-.data-shed-purple-text h5,
-.data-shed-purple-text h6 {
-    color: var(--data-shed-purple) !important;
-}
-
-.data-shed-green-text,
-.data-shed-green-text p,
-.data-shed-green-text h1,
-.data-shed-green-text h2,
-.data-shed-green-text h3,
-.data-shed-green-text h4,
-.data-shed-green-text h5,
-.data-shed-green-text h6 {
-    color: var(--data-shed-green) !important;
-}
-
-p {
-    font-size: 35px;
+* {
+    font-family: 'Catamaran', 'Calibri', sans-serif;
+    font-size: 1em;
+    color: var(--primary-purple);
 }
 
 h1, h2, h3, h4, h5, h6 {
     font-weight: bold;
-    color: var(--data-shed-purple)
+    color: var(--primary-orange);
 }
 
 h1 {
-    font-size: 65px;
+    font-size: 4em;
 }
 
 h2 {
-    font-size: 60px;
+    font-size: 3em;
+    color: var(--primary-green)
 }
 
 h3 {
-    font-size: 55px;
-}
-
-h4 {
-    font-size: 50px;
-}
-
-h5 {
-    font-size: 45px;
-}
-
-h6 {
-    font-size: 40px;
+    font-size: 2em;
+    color: var(--secondary-blue)
 }
 
 section {
-    width: 1920px;
-    height: 1080px;
+    
     background-color: rgb(255, 255, 255);
-    font-family: 'Catamaran', sans-serif;
+    
     padding: 40px;
 }
 
-p > a {
-    color: var(--data-shed-purple);
-}
-
-p > a:hover {
-    color: var(--data-shed-purple);
-    text-decoration: underline;
-    cursor: pointer;
-}
-
-p.data-class {
-    width: 100%;
-    color: #aaa;
-    font-size: 25px;
-}
-
 img {
-    width: 100%;
+    width: auto;
+    background: none;
 }
 
 img.no-responsive {
     width: auto;
+}
+
+header > img {
+    height: 70px;
+}
+footer > img {
+    height: 110px;
+}
+
+section.center {
+    text-align: center;
 }
