@@ -47,9 +47,7 @@ h3 {
 }
 
 section {
-    
-    background-color: rgb(255, 255, 255);
-    
+    background-color: #ffffff;
     padding: 40px;
 }
 
@@ -69,6 +67,12 @@ footer > img {
     height: 110px;
 }
 
-section.center {
-    text-align: center;
+small {
+    font-size: 0.8em;
+    color: var(--primary-orange);
+}
+
+small > a {
+    color: var(--primary-orange);
+    text-decoration: underline;
 }
