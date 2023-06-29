@@ -12,7 +12,7 @@ footer: '![hippo](assets/hippo.png)'
 
 ## Past, Present & Future
 
-`@<Roger G Coram>, @<Louis Feather> & @<Will Johnson>`
+`@<George Verney>, @<Louis Feather> & @<Will Johnson>`
 
 ---
 
@@ -22,7 +22,7 @@ footer: '![hippo](assets/hippo.png)'
 
 Lightweight history of Python.
 
-`@<Roger G. Coram>` (TODO: confirm)
+`@<George Verney>`
 
 ---
 
