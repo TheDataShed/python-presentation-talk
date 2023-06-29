@@ -79,4 +79,10 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Marp shizz
+*.pdf
+*.ppt
+*.pptx
+*.html
+
 # End of https://www.toptal.com/developers/gitignore/api/macos,windows,visualstudiocode
